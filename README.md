@@ -21,6 +21,8 @@ Utf 8 és la codificación de caràcteres. S’especifica per temes de compatibi
 
 Quan el que volem escriure pot ser molt variable. Hem d’obrirlo i tancar-lo. En canvi si sabem que sempre serà un tipus de dada, (int,float, etc…) utilitzem la següent estructura.
 
+```XML
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <character>
 	<name>Eustaquio</name>
@@ -28,6 +30,7 @@ Quan el que volem escriure pot ser molt variable. Hem d’obrirlo i tancar-lo. E
 	<!-- COMENTARIO -->
 	<age value=197" />
 </character>
+```
 
 XML → Validació 
 XSD
