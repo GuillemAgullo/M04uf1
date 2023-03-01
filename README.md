@@ -26,6 +26,33 @@ Aquí irán los apuntes de DTD
 
 Y [Esto](http://enti.cat) es un enlace a una web muuuy sospechosa
 
-**Josué Sallent dos punts**
-![Josué](https://pbs.twimg.com/profile_images/940544687072571392/Cxf0VDoZ_400x400.jpg)
+**Brownie de xocolata amb grumolls**
 
+![Caca](https://soyunperro.com/wp-content/uploads/2016/05/caca-de-perro.jpg)
+
+## Ejemplo de código sintáctico interpretado
+
+```kotlin
+val range5 = 0..10
+fun main() {
+	for (n in range5) {
+		println(n)
+	}
+	if (7 in range5) {
+		println("yes")
+	}
+	if (12 !in range5) {
+		println("no")
+	}
+}
+```
+
+### Listas de tareas
+
+- [ ] Primera tarea
+- [x] Segunda tarea	
+- [ ] Tercera tarea
+
+### Carácters extendidos
+
+:poop: :alien: :cry:  :imp: :eggplant: 
