@@ -56,3 +56,13 @@ fun main() {
 ### Carácters extendidos
 
 :poop: :alien: :cry:  :imp: :eggplant: 
+
+### Estilo de carácteres
+
+*cursiva* _cursiva_
+
+**negrita** _negrita_
+
+~~TACHAO~~
+
+~~***TACHAO, negrita y cursiva***~~
