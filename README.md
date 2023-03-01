@@ -22,3 +22,10 @@ Aquí irán los apuntes de DTD
 >
 >Seguim
 
+[CondorChem](https://condorchem.com)
+
+Y [Esto](http://enti.cat) es un enlace a una web muuuy sospechosa
+
+**Josué Sallent dos punts**
+![Josué](https://pbs.twimg.com/profile_images/940544687072571392/Cxf0VDoZ_400x400.jpg)
+
