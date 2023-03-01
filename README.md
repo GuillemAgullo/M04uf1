@@ -66,3 +66,12 @@ fun main() {
 ~~TACHAO~~
 
 ~~***TACHAO, negrita y cursiva***~~
+
+### Tablas 
+
+| id_character | name | age | level |
+| --- | --- | --- | --- |
+| 1 | Eustaquio | 197 | 99 |
+| 2 | Mariana | 20 | 100 |
+| 3 | Mortadelo | 100 | 1 |
+| 4 | Messi | 44 | 32 |
