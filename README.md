@@ -16,7 +16,7 @@ Mosaic→ el primer browser
 XML → Llenguatge més definit que html4 però suficientment lliure per fer el que et doni la gana.
 
 La capçalera és la següent:
-<?xml version="1.0" encoding="UTF-8" ?>
+\?xml version="1.0" encoding="UTF-8" ?>
 Utf 8 és la codificación de caràcteres. S’especifica per temes de compatibilitat i perquè quan posis el codi en un altre idioma, es mostrin els mateixos caràcters.
 
 Quan el que volem escriure pot ser molt variable. Hem d’obrirlo i tancar-lo. En canvi si sabem que sempre serà un tipus de dada, (int,float, etc…) utilitzem la següent estructura.
