@@ -44,6 +44,9 @@ Si no hi ha res significa
 
 MARK DOWN
 ![eLCHATERO](https://images.cdn3.buscalibre.com/fit-in/360x360/c1/77/c17783c27067d6dca1f2e88def3a6f7e.jpg)
+
+![LKSADFJ](https://sidoxia.files.wordpress.com/2009/10/muscle-man.jpg)
+
 #Título1
 ##Título2
 * algo → per fer llistes
