@@ -41,7 +41,7 @@ DTD
 + significa 1 o més cops
 Si no hi ha res significa 
 
-
+![ADSF](https://i.ytimg.com/vi/cfQN7SqJihk/maxresdefault.jpg)
 
 ![eLCHATERO](https://images.cdn3.buscalibre.com/fit-in/360x360/c1/77/c17783c27067d6dca1f2e88def3a6f7e.jpg)
 
