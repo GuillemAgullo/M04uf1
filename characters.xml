@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<characters>
+	<character id_character="1">
+		<name>Eustaquio</name>
+		<surname>Mendoza</surname>
+		<!--  COMENTARIO  -->
+		<age value="197"/>
+		<race>Enano</race>
+		<class>Artificiero</class>
+		<gender abbrev="N">Non-Binary</gender>
+		<height cm="130"/>
+		<weight kg="80"/>
+		<language abbrev="prt">Portugués</language>
+		
+	</character>
+	<character id_character="2">
+		<name>Mariana</name>
+		<surname>Rajoya</surname>
+		<!--  COMENTARIO  -->
+		<age value="1200"/>
+		<race>Hada</race>
+		<class>Tanque</class>
+		<gender abbrev="F>Femaler>
+		<height cm="0.25"/>
+		<weight kg="3.5"/>
+		<language abbrev="rou">Rumano</language>
+		
+	</character>
+	<character id_character="2">
+		<name>Mariana</name>
+		<surname>Rajoya</surname>
+		<!--  COMENTARIO  -->
+		<age value="1200"/>
+		<race>Hada</race>
+		<class>Tanque</class>
+		<gender abbrev="F>Femaler>
+		<height cm="0.25"/>
+		<weight kg="3.5"/>
+		<language abbrev="rou">Rumano</language>
+		
+	</character>
+</characters>
