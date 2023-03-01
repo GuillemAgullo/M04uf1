@@ -8,6 +8,44 @@ Aquí irán los apuntes de **XML**
 * dos
 * tres 
 
+Sgml → <I>hola</I> → cursiva
+Hyper text → text normal però afegeix una nova dimensió → els enllaços entre pàgines web, que canvien el món de forma espectacular. 
+HTML és sgml però amb aquesta nova dimensió.
+
+Mosaic→ el primer browser
+XML → Llenguatge més definit que html4 però suficientment lliure per fer el que et doni la gana.
+
+La capçalera és la següent:
+<?xml version="1.0" encoding="UTF-8" ?>
+Utf 8 és la codificación de caràcteres. S’especifica per temes de compatibilitat i perquè quan posis el codi en un altre idioma, es mostrin els mateixos caràcters.
+
+Quan el que volem escriure pot ser molt variable. Hem d’obrirlo i tancar-lo. En canvi si sabem que sempre serà un tipus de dada, (int,float, etc…) utilitzem la següent estructura.
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<character>
+	<name>Eustaquio</name>
+	<surname>Mendoza</surname>
+	<!-- COMENTARIO -->
+	<age value=197" />
+</character>
+
+XML → Validació 
+XSD
+DTD
+
+* significa 0 o més cops repetits
+? significa 0 o 1 cops
++ significa 1 o més cops
+Si no hi ha res significa 
+
+
+MARK DOWN
+#Título1
+##Título2
+* algo → per fer llistes
+_algo_ → cursiva
+> algo → per destacar algo “normalment codi”
+
 
 ## DTD
 Aquí irán los apuntes de DTD
@@ -70,7 +108,7 @@ fun main() {
 ### Tablas 
 
 | id_character | name | age | level |
-| --- | --- | --- | --- |
+| ---: | --- | --- | --- |
 | 1 | Eustaquio | 197 | 99 |
 | 2 | Mariana | 20 | 100 |
 | 3 | Mortadelo | 100 | 1 |
