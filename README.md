@@ -17,3 +17,8 @@ Aquí irán los apuntes de DTD
 >
 > -Heràclit d'Hefest
 
+>**Esto es una cita**
+>>Ma cagun tot aixo és una cita dintre d'una cita.
+>
+>Seguim
+
