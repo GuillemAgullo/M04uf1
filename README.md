@@ -66,7 +66,7 @@ Y [Esto](http://enti.cat) es un enlace a una web muuuy sospechosa
 
 **Brownie de xocolata amb grumolls**
 
-![Caca](https://soyunperro.com/wp-content/uploads/2016/05/caca-de-perro.jpg)
+
 
 ## Ejemplo de código sintáctico interpretado
 
