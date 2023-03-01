@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<weapons>
+	<weapon id_weapon="1">
+		<name>Bazooka del worms</name>
+		<pdamage value="9" />
+		<pdefense value="7" />
+		<mdamage value="3" />
+		<mdefense value="5" />
+		<level value="4" />
+		<levelmin value="1" />
+		<rarity value="20" />
+		<cost dineros="45"/>
+		<hands value="2"/>
+		<weight kg="46" />
+		<durability value="3" />
+		<uses value="3" />
+		<ammo value="3" />
+		<ammo_max value="3" />
+		<class value="all" />
+		<elemental />
+		<description> Mete zambombazos a tutiplén.</description>
+	</weapon>
+	
+	<weapon id_weapon="2">
+		<name>Mama's chancla</name>
+		<pdamage value="1000" />
+		<pdefense value="3" />
+		<mdamage value="1000" />
+		<mdefense value="5" />
+		<level value="90" />
+		<levelmin value="80" />
+		<rarity value="100" />
+		<cost dineros="1000"/>
+		<hands value="1"/>
+		<weight kg="0,3" />
+		<durability value="1" />
+		<uses value="1" />
+		<ammo value="1" />
+		<ammo_max value="1" />
+		<class value="all" />
+		<elemental />
+		<description> Nadie se escapa.</description>
+	</weapon>
+	
+	<weapon id_weapon="3">
+		<name>Merce's punyalote</name>
+		<pdamage value="40" />
+		<pdefense value="3" />
+		<mdamage value="0" />
+		<mdefense value="2" />
+		<level value="45" />
+		<levelmin value="40" />
+		<rarity value="30" />
+		<cost dineros="13"/>
+		<hands value="1"/>
+		<weight kg="0,2" />
+		<durability value="200" />
+		<uses value="200" />
+		<ammo value="200" />
+		<ammo_max value="200" />
+		<class value="all" />
+		<elemental />
+		<description> Dame todo lo que tengas y más.</description>
+	</weapon>
+	
+	<weapon id_weapon="3">
+		<name>Espadastola</name>
+		<pdamage value="50" />
+		<pdefense value="0" />
+		<mdamage value="50" />
+		<mdefense value="34" />
+		<level value="70" />
+		<levelmin value="67" />
+		<rarity value="68" />
+		<cost dineros="400"/>
+		<hands value="2"/>
+		<weight kg="9" />
+		<durability value="400" />
+		<uses value="400" />
+		<ammo value="400" />
+		<ammo_max value="400" />
+		<class value="all" />
+		<elemental />
+		<description> Una espada que también es pistola como el nommbre así lo indica puto tonto.</description>
+	</weapon>
+	
+</weapons>
+	
