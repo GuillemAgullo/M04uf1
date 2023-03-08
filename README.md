@@ -51,6 +51,46 @@ En XML (també ho pots aplicar al XSD) hi ha un bocabulari particular que a prio
 \+ significa 1 o més cops
 Si no hi ha res significa 1 cop només
 
+HTTP és el protocol per transferir html o en general tots els hyper textos.
+
+EL TLD és el Top Level Domain: és el .es
+És per on comencen a llegir els dns.
+Els noms de domini: "google", només en poden haver 1 per cada TLD. 
+
+
+El subdomini www. vol dir que estàs accedint al port 80 específicament
+
+Abui en día el www. no fa falta perquè la gent ja no fa servir el navegador per altres coses que no sigui web, llavors, el navegador ja entén que al que et refereixes quan poses un nom de domini, et refereixes a la web.
+Abans però, el navegador també es feia servir amb altres protocols com per exemple ftp, per transferir arxius.
+
+HTML --> 5 --> Life shceme, significa que està sempre en procés de millora.
+
+Amb html definim no només com es veuen les lletres sinó el també què signifiquen
+Per escriure un paràgraf:
+```HTML
+<p>ola k ase</p>
+```
+Per escriure en cursiva:
+```HTML
+<em>ola k ase</em>
+```
+Per escriure en negreta:
+```HTML
+<strong>Dyle papu</strong>
+```
+Per fer llistes:
+```HTML
+<ul> 
+		<li>Manzanas</li>
+		<li>Peras</li>
+		<li>Limones</li>
+</ul>
+```
+
+Els colors es representen de forma hexadecimal: # RR GG BB (red, green, blue) 
+TOT element de bloc té margen extern i margen interior(padding)
+padding:0 0 8px 0;
+El margin és el margen exterior i el padding és el margen interior de la caixa o del "bloc"  
 ![ADSF](https://i.ytimg.com/vi/cfQN7SqJihk/maxresdefault.jpg)
 
 ![eLCHATERO](https://images.cdn3.buscalibre.com/fit-in/360x360/c1/77/c17783c27067d6dca1f2e88def3a6f7e.jpg)
@@ -133,3 +173,4 @@ fun main() {
 | 2 | Mariana | 20 | 100 |
 | 3 | Mortadelo | 100 | 1 |
 | 4 | Messi | 44 | 32 |
+
