@@ -100,12 +100,36 @@ La estructura d'un document html és:
 		<title> </title>
 		<style> </style>
 	</head>
+	<nav>
+	
+	
+	</nav>
 	<body>
-		<h1></h1>
-		<h3></h3>
+		<header>
+			<h1></h1>
+			<h3></h3>
+		</header>
+		<nav>
+			<img />
+		</nav>
+		<main>
+			
+		</main>
+		<footer>
+		
+		</footer>
 	</body>
 </html>
 ```
+Les etiquetes img són imparelles. Es tanquen en si mateixes.
+img és un element en línea, no en bloc.
+
+La etiqueta nav és "navegació"
+
+Dintre de main anirà la "xitxa". El contingut.
+A footer hi van les dades extra.
+
+
 Hi han dos tipus d'elements a html:
 * Elements en bloc: 
 	Són elements que ocupen un bloc de la pantalla.
