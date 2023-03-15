@@ -91,6 +91,22 @@ Els colors es representen de forma hexadecimal: # RR GG BB (red, green, blue)
 TOT element de bloc té margen extern i margen interior(padding)
 padding:0 0 8px 0;
 El margin és el margen exterior i el padding és el margen interior de la caixa o del "bloc"  
+
+La estructura d'un document html és:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+	</head>
+	<body>
+	
+	</body>
+</html>
+```
+
+
+
 ![ADSF](https://i.ytimg.com/vi/cfQN7SqJihk/maxresdefault.jpg)
 
 ![eLCHATERO](https://images.cdn3.buscalibre.com/fit-in/360x360/c1/77/c17783c27067d6dca1f2e88def3a6f7e.jpg)
