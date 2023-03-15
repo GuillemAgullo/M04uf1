@@ -97,13 +97,25 @@ La estructura d'un document html és:
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>
+		<title> </title>
+		<style> </style>
 	</head>
 	<body>
-	
+		<h1></h1>
+		<h3></h3>
 	</body>
 </html>
 ```
+Hi han dos tipus d'elements a html:
+> Elements en bloc: 
+	Són elements que ocupen un bloc de la pantalla.
+> Elements en línea:
+	Són elements que donen propietats al text.
+
+Els elements en línea van dintre d'elements en bloc i mai a l'inrevés.
+
+<ul> Significa unordered list.
+
 
 
 
