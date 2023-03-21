@@ -1,3 +1,4 @@
+
 body{
 	padding:0;
 	margin:0;
@@ -5,7 +6,7 @@ body{
 
 
 header{
-	background-color:#101010;
+	background:linear-gradient(45deg, #ff0000 0%, #ffff00 50%, #ff0000 100%);
 }
 
 header h1{
@@ -14,12 +15,17 @@ header h1{
 	padding:0 32px 0 32px;
 }
 header h1 a{
+	padding:16px 0 16px 16px;
+	margin:0;
 	color:#ffffff;
 	text-decoration:none;
 }
 header p{
+	border-top:2px solid #000000;
+	border-bottom:2px solid #000000;
 	color: #ffffff;
 	padding:8x 0 8px 0;
+	margin:0;
 	text-align:center;
 	margin: 0;
 	/*border:1px solid red;*/
@@ -32,7 +38,7 @@ blockquote{
 background-color:#ccc;
 padding:32px;
 border:1px dashed #aaaaaa
-font-family:courier,serif;
+
 }
 blockquote em{
 	font-family:sans-serif;
@@ -68,7 +74,7 @@ nav ul a{
 	text-decoration:none;
 }
 nav ul a:hover{
-	background-color:green;
+	background-color:red;
 }
 footer{
 	background:linear-gradient(45deg, #ff0000 0%, #ffff00 50%, #ff0000 100%);
@@ -79,7 +85,22 @@ footer{
 }
 footer p{
 	margin:0;
+	color:black;
+}
+@keyframes mover {
+  from {left: 0px;}
+  to {right: 200px;}
+}
+footer h2{
+	animation-name: mover;
+	animation-duration: 2s;
+	color:black;
 }
 main{
 	padding:0 32px 0 32px;
 }
+main img{
+	box-shadow: 5px 5px 10px grey;
+}
+
+

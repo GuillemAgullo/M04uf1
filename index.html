@@ -1,18 +1,65 @@
 <!DOCTYPE html>
 <html>
 <script>
-	console.log("ola k ase");
+console.log("ola k ase");
+/*
+let variable = 33;
+let palabreja = "lo guarda";
+let otrap = " en la taquilla";
+console.log(palabreja + otrap + variable);
+console.log(variable);
+
+let contador = 0;
+while (contador < 10){
+	console.log(contador);
+	contador++;
+}
+for (let i=0; i < 10; i++){
+	console.log("papafrita"+i);
+}
+
+let valor1 = 10;
+let valor2 = 6;
+	if (valor1 == valor2){
+		console.log("Son iguales");
+	}
+	else if (valor1 > valor2){
+		console.log("El ",valor1,"es mayor que ", valor2);
+	}
+	else{
+		console.log("El valor2 es mayor")
+	}
+	*/
+	function saluda (nombre){
+		console.log("ola k ase",nombre);
+	}
+	saluda("Ian");
+	function alerta_maxima (){
+		alert("Me estoy cagando, Se me sale la caca!");
+	}
+
+let thegrefg = 0;
+function cuenta (){
+	thegrefg = Math.random();
+	document.getElementById("numerito").innerHTML = thegrefg;
+	/*innerHTML és el texto interior de <p> i document engloba todas las etiquetas en html*/
+	console.log(thegrefg);
+}
 </script>
 <head>
 <title>Guillem Agulló Font</title>
-<link rel="stylesheet" href="style.css"/>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 	<header>
 		<h1><a href="index.html">Guillem Agulló</a></h1>
 		<p>Músic i Estudiant de Ciberseguretat</p>
-
+		<form>
+			<p id="numerito">0</p>
+			
+			<input type="button" value="¡¡¡Click!!!" onClick="cuenta()"/>
+		</form>
 	</header>
 	
 	<nav>
@@ -30,9 +77,7 @@
 		<blockquote>
 		<p>Don't play what you know, play what you don't know.</p> <em>- Miles Davis ~ 1968</em>
 		</blockquote>
-		
-		<h2>Ficha</h2>
-		<p><img src="https://d273yxk2oj202w.cloudfront.net/upldr/enti-classlife-education/2023/03/07/minithumbnail/gettyimages-74271347.jpg" title="Foto Guillem"></img></p>
+		<img src="https://www.clarin.com/img/2020/03/17/1jdBeRDH_360x240__1.jpg"></img>
 		
 		<h3>Asignatures que estic cursant:</h3>
 		<ul>

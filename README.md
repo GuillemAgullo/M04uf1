@@ -137,7 +137,8 @@ Hi han dos tipus d'elements a html:
 	Són elements que donen propietats al text.
 
 Els elements en línea van dintre d'elements en bloc i mai a l'inrevés.
-
+Displays: - block -inline -none -flex
+flex és un elemento en bloc que ens permet treballar amb altres elements en bloc.1
 <ul> Significa unordered list.
 
 
