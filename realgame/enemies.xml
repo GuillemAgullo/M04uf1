@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enemies>
+    <enemy>
+        <name>nanoenjoyer</name>
+        <health>12</health>
+        <damage>14</damage>
+        <description>Le gusta nano i le gustan los enanos.</description>
+    </enemy>
+    <enemy>
+        <name>nanouser</name>
+        <health>25</health>
+        <damage>30</damage>
+        <description>Tiene una foto del creador de nano en su mesita de noche. |Saquen sus conclusiones|</description>
+    </enemy>
+    <enemy>
+        <name>nanoworker</name>
+        <health>43</health>
+        <damage>45</damage>
+        <description>Su trabajo consiste en ir por la calle y dar asco usando nano</description>
+    </enemy>
+    <enemy>
+        <name>nanogod</name>
+        <health>78</health>
+        <damage>90</damage>
+        <description>Es proplayer de nano.</description>
+    </enemy>
+</enemies>

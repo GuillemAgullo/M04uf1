@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<player_save>
+	<player>
+		<name>guillem</name>
+		<health>1000</health>
+		<strength>50</strength>
+		<level>67</level>
+		<xp>89</xp>
+	</player>
+</player_save>

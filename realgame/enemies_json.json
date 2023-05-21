@@ -1,0 +1,20 @@
+[
+    {
+        "name": "nanofilico",
+        "health": "34",
+        "damage": "34",
+        "description": "busca nopor de nano"
+    },
+    {
+        "name": "nanologo",
+        "health": "44",
+        "damage": "44",
+        "description": "es experto en nano. (hubo nanosexo)"
+    },
+    {
+        "name": "CEO de nano",
+        "health": "100",
+        "damage": "100",
+        "description": "Es el mismisimo fernando alonso."
+    }
+]
